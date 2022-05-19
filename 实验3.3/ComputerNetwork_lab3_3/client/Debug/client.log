@@ -1,0 +1,9 @@
+﻿  client.cpp
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(309,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(405,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(430,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(511,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(522,37): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(477,13): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\VS2019 code\ComputerNetwork_lab3_3\client\client.cpp(490,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client.vcxproj -> E:\VS2019 code\ComputerNetwork_lab3_3\Debug\client.exe

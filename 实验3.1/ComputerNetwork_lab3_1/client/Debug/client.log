@@ -1,0 +1,6 @@
+﻿  client.cpp
+E:\VS2019 code\ComputerNetwork_lab3_1\client\client.cpp(265,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS2019 code\ComputerNetwork_lab3_1\client\client.cpp(276,37): warning C4018: “<”: 有符号/无符号不匹配
+E:\VS2019 code\ComputerNetwork_lab3_1\client\client.cpp(231,13): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\VS2019 code\ComputerNetwork_lab3_1\client\client.cpp(244,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client.vcxproj -> E:\VS2019 code\ComputerNetwork_lab3_1\Debug\client.exe
